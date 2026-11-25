@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sryanprograms/sryanprograms/main/earth.gif" alt="Earth from orbit" width="100%"/>
-</p>
 
 <h1 align="center">Hey, I'm Sierra 👋</h1>
 
