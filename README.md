@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=800&lines=Data+Science+%2B+GIS+%40+Arizona+State;3x+Software+%26+AI+intern+%40+Lockheed+Martin+Space;D1+lacrosse+captain;Building+robots+that+see+and+move" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=800&lines=Data+Science+%2B+GIS+%40+Arizona+State;3x+Software+%26+AI+intern+%40+Lockheed+Martin+Space" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -68,7 +68,3 @@ I like building stuff that actually does something out in the real world. Most o
 - 💼 Started an AI agent company at 16 with clients in Asia, Australia and Europe
 
 <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Let's%20build%20something%20that%20works%20in%20the%20real%20world-0f2027?style=for-the-badge" alt="footer"/>
-</p>
