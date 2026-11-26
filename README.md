@@ -28,7 +28,7 @@ I like building stuff that actually does something out in the real world. Most o
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sryanprograms/pigeon_patrol">
-        <img src="demo.png" alt="Pigeon Patrol" width="100%"/>
+        <img src="https://raw.githubusercontent.com/sryanprograms/pigeon_patrol/main/demo.jpg" alt="Pigeon Patrol" width="100%"/>
       </a>
       <h3><a href="https://github.com/sryanprograms/pigeon_patrol">Pigeon Patrol</a></h3>
       <p>A pan/tilt water turret on my roof. A camera spots pigeons, the model makes sure it's actually a pigeon, and then it sprays.</p>
